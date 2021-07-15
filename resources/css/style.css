@@ -2,12 +2,12 @@
 
 @import url("normalise.css");
 
-@import url(@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Gotu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
 
 body { 
     background-color: rgb(237, 238, 234);
 
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Cormorant Garamond', serif;
     text-align: center
     ;
     
@@ -39,9 +39,8 @@ h2,
 h3,
 h4,
 h5 {
-
-    font-family: Georgia, 'Times New Roman', Times, serif;
-
+    font-family: 'Cormorant Garamond', serif;
+    
 }
 
 /* Header */ 
