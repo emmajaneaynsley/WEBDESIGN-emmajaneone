@@ -63,3 +63,13 @@ h2{
 /*Footer*/
 
 /* Modules */ 
+
+.content-box {
+    background-color: rgb(255, 253, 245);
+    padding: 20px;
+
+}
+.news-component {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
