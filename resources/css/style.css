@@ -1,7 +1,7 @@
 /* Global Defults   */
 
 body { 
-    background-color: rgb(160, 214, 167);
+    background-color: rgb(237, 238, 234);
 
     font-family: Arial, Helvetica, sans-serif;
     text-align: center
@@ -18,7 +18,7 @@ img {
 /* Layout */
 
 .layout-wide{
-background-color: rgb(237, 241, 188); 
+background-color: rgb(255, 248, 227); 
 
 max-width: 1200px;
 padding: 40px;
