@@ -4,6 +4,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
 
+html{
+    font-size: 16px;
+}
+
 body { 
     background-color: rgb(237, 238, 234);
 
@@ -40,7 +44,15 @@ h3,
 h4,
 h5 {
     font-family: 'Cormorant Garamond', serif;
-    
+
+}
+
+h1{
+    font-size: 3rem;
+}
+
+h2{
+    font-size: 2rem;
 }
 
 /* Header */ 
