@@ -10,7 +10,7 @@ html{
 }
 
 body { 
-    background-color: rgb(237, 238, 234);
+    background-color: rgb(255, 252, 244);
 
     font-family: 'Cormorant Garamond', serif;
     text-align: center
@@ -102,5 +102,5 @@ h2{
     display: grid;
     grid-template-columns: 1fr 1fr;
 
-    
+
 }
