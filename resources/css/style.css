@@ -73,7 +73,7 @@ h2{
 }
 .news-component {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .content-box {
