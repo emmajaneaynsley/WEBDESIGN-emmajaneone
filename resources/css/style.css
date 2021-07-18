@@ -58,6 +58,9 @@ h1{
 
 h2{
     font-size: 2rem;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 
@@ -96,6 +99,18 @@ h2{
 
 }
 .branding {
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
+
+.content-box {
+    background-color: rgb(255, 253, 245);
+    padding: 20px;
+
+}
+.heading {
     text-align: center;
     padding-left: 200px;
     padding-right: 200px;
