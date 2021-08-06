@@ -54,15 +54,29 @@ h5 {
 
 h1{
     font-size: 2rem;
+    font-weight: 100;
+    font-style: italic;
 }
 
 h2{
-    font-size: 2rem;
+    font-size: 3rem;
     text-align: center;
-    padding-left: 200px;
-    padding-right: 200px;
+    font-style: italic;
+    font-weight: 100;
 }
 
+h3{
+    font-size: 1rem;
+    font-family:'Cormorant Garamond', serif;
+    font-weight: 50;
+
+}
+
+h4{
+    font-size: 3rem;
+    font-weight: 100;
+    font-style: normal;
+}
 
 
 /* Header */ 
