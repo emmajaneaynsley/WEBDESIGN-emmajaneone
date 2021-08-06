@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
 
 html{
-    font-size: 16px;
+    font-size: 20px;
     line-height: 27px;
 }
 
@@ -151,4 +151,12 @@ h4{
     writing-mode: vertical-rl;
     text-orientation: mixed;
 
+}
+
+.content-box{
+    background-color: rgb(255, 253, 245)
+    padding; 20px
+}
+.services {
+    
 }
