@@ -103,16 +103,25 @@ h4{
 
 }
 
-
+@media screen and (min-width: 800px) {
 
 .content-box {
     background-color: rgb(255, 253, 245);
     padding: 20px;
 
 }
-.news-component-number-two {
+
+}
+
+@media screen and (min-width: 800px) {
+
+    .news-component-number-two {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    
+}
+
+
 }
 
 .content-box {
