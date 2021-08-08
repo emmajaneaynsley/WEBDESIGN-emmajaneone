@@ -83,6 +83,13 @@ h4{
 
 /* Navigation */
 
+nav ul {
+    float: initial;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+  }
+
 /*Footer*/
 
 /* Modules */ 
