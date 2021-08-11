@@ -81,15 +81,19 @@ h4{
 
 /* Header */ 
 
+header{
+    position: sticky;
+    top: 0;
+    background-color: red;
+}
+
 /* Navigation */
 
 nav ul {
-    float: initial;
     list-style: none;
     display: flex;
     justify-content: space-between;
-    position: fixed;
-    top: 0;
+    padding: 0;
     width: 100%;
   }
 
