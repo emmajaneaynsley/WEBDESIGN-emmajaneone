@@ -150,8 +150,8 @@ nav ul {
 }
 .branding {
     text-align: center;
-    padding-left: 200px;
-    padding-right: 200px;
+    /* padding-left: 200px;
+    padding-right: 200px; */
 
 }
 
@@ -174,9 +174,16 @@ nav ul {
 }
 .sideways {
     text-align: center;
-    padding-left: 200px;
-    padding-right: 200px;
-    writing-mode: vertical-rl;
-    text-orientation: mixed;
+    
 
+}
+
+@media screen and (min-width: 800px) {
+
+    .sideways {
+        padding-left: 200px;
+        padding-right: 200px;
+        writing-mode: vertical-rl;
+        text-orientation: mixed;
+    }
 }
