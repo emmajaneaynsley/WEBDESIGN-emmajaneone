@@ -84,7 +84,7 @@ h4{
 header{
     position: sticky;
     top: 0;
-    background-color: red;
+    background-color: rgb(255, 253, 245);
 }
 
 header h1 {
@@ -150,10 +150,17 @@ nav ul {
 }
 .branding {
     text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
     /* padding-left: 200px;
     padding-right: 200px; */
 
 }
+
+.branding {
+    grid-column-start: 1;
+    grid-column-end: 3;
+  }
 
 .content-box {
     background-color: rgb(255, 253, 245);
@@ -174,7 +181,6 @@ nav ul {
 }
 .sideways {
     text-align: center;
-    
 
 }
 
