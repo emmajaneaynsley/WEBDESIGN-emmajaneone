@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
 
 html{
-    font-size: 16px;
+    font-size: 14px;
     line-height: 27px;
 }
 
@@ -14,7 +14,7 @@ body {
 
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    font-weight: 20;
+    font-weight: 10;
     ;
     
 }
@@ -47,6 +47,7 @@ margin-right: auto;
 h1,
 h2,
 h3,
+
 h4,
 h5 {
     font-family: 'Cormorant Garamond', serif;
@@ -67,10 +68,13 @@ h2{
 }
 
 h3{
-    font-size: 1rem;
-    font-family:'Cormorant Garamond', serif;
-    font-weight: 50;
-
+        background-color: rgb(255, 252, 244); 
+        font-family: 'Cormorant Garamond', serif;
+        text-align: center;
+        font-weight: 10;
+        font-size: 20px;
+        
+        
 }
 
 h4{
@@ -89,8 +93,8 @@ header{
 }
 
 header h1 {
-    margin-top: 0;
-    line-height: 2;
+    margin-top: 4;
+    line-height: 4;
 }
 
 /* Navigation */
