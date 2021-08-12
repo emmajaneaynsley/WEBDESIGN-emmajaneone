@@ -212,9 +212,12 @@ footer{
 @media screen and (min-width: 800px) {
 
     .sideways {
-        padding-left: 200px;
-        padding-right: 200px;
+        padding-left: 40%;
         writing-mode: vertical-rl;
         text-orientation: mixed;
     }
+}
+
+.newsection{
+    padding-left: 10px;
 }
